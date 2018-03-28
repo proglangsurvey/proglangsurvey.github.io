@@ -1,0 +1,37 @@
+* {
+	color: black;
+	line-height: normal;
+	font-family: Calibri;
+	font-weight: 700;
+
+}
+
+h1, .total, .alert-primary {
+	text-align: center;
+}
+
+.signature {
+	text-align: right;
+	position: static;
+	margin-top: 30px;
+	margin-right: 30px;
+}
+
+.inputs, .btn-primary {
+	margin-left: 47%;
+}
+
+body {
+	background: linear-gradient(to left, #80D8D8, yellow);
+}
+
+.part1 {
+	margin-top: 10%;
+	font-size: 150%;
+}
+
+.part2 {
+	margin-top: 10%;
+	text-align: center;
+	font-size: 130%;
+}
